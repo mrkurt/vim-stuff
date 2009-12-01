@@ -1,5 +1,10 @@
 set hidden
 set directory=~/.vim/tmp
+set list
+
+set tabstop=2
+set shiftwidth=2
+set expandtab
 
 " color scheme of the moment:
 syntax on
