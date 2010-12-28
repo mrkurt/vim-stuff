@@ -10,6 +10,10 @@ set expandtab
 syntax on
 colorscheme slate
 
+filetype off
+
+call pathogen#runtime_append_all_bundles()
+
 filetype plugin indent on
 
 let g:miniBufExplMapWindowNavVim = 1 
