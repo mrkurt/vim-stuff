@@ -8,7 +8,9 @@ set expandtab
 
 " color scheme of the moment:
 syntax on
-colorscheme slate
+set background=dark
+colorscheme solarized
+" colorscheme slate
 
 filetype off
 
